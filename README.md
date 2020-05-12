@@ -1,6 +1,7 @@
 # pooEXO3
 
-Crée une class DataBase qui a une méthode pour se connecter à une base de donnée Crée une class User qui a les propriétés suivantes
+* Crée une class DataBase qui a une méthode pour se connecter à une base de donnée 
+* Crée une class User qui a les propriétés suivantes
 
 - id
 - username
